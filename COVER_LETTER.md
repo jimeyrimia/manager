@@ -48,7 +48,7 @@ One common Risk I have identified is the unclear definition of requirements whil
 In my 13+ years of experience, I worked only with International teams (US, Mexico, France, UK, Spain, India), always speaking in English (my native language is Spanish), so I feel comfortable with that. I can handle the clients' expectations by having clear, simple, and continuous communication with them, keeping every oral communication tracked and written so everybody is on the same page.
 
 
-============================================================================================================
+====================================================================
 
 I am eager to discuss how my skills and experience can contribute to your team's success.
 Best regards,
