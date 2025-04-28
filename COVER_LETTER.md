@@ -49,6 +49,8 @@ In my 13+ years of experience, I worked only with International teams (US, Mexic
 
 
 ============================================================================================================
+
 I am eager to discuss how my skills and experience can contribute to your team's success.
 Best regards,
-Jimena Yrimia# maanger
+
+Jimena Yrimia
