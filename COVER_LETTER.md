@@ -11,10 +11,15 @@ As a seasoned manager with extensive experience in Software Quality Assurance, I
 -----Initiatives------------------------------------------------------------------------------------------
 
 As Delivery Manager, many of the processes introduced to the team and daily work were part of my definition and ideation:
+
 ● Designed a tool that helps with follow-up on risks, keeps daily work, issues, and blockers tracked, and measures impact and project goals deviation.
+
 ● Designed multiple dashboards to provide visibility of the teamwork and project progress for all stakeholders.
+
 ● Set up and configure Jira projects to organize project artifacts in epics, stories, and subtasks.
+
 ● Designed an Agile Scrum training for the entire Engineering team.
+
 ● Implemented Atlassian Jira tools to create Delivery Plans and successfully allocate tasks according to the team effort, capacity, and velocity.
 
 
